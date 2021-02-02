@@ -3,9 +3,9 @@
 
 Here is the code and the Python apps I used to Run the Nvidia Deepstream YOLO Object detector app.
 
-The Ignition maker app is also included in this Repo incase you want to import it into Ignition Maker.
+The Ignition maker app for ignition designer is also included in this Repo incase you want to import it into Ignition Maker.
 
-This Repo also contains sparkplug stuff Deepstream YOLO Config files.
+This Repo also contains sparkplug stuff and Deepstream YOLO Config files.
 
 If you clone this Repo and install it on youre Nano or Xavier NX at this location.
 
