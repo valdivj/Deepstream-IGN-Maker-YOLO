@@ -1,7 +1,7 @@
 # Deepstream IGN Maker YOLO
  Nvidia Deepstream YOLO Python App
 
-Here is the code are the Python apps I used to Run the Nvidia Deepstream YOLO Object detector app.
+Here is the code and the Python apps I used to Run the Nvidia Deepstream YOLO Object detector app.
 
 The Ignition maker app is also included in this Repo incase you want to import it into Ignition Maker.
 
