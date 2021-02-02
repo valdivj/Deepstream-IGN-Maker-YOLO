@@ -42,7 +42,7 @@ and also send metadata via sparkplug to the Ignition Maker app.
 
 I.P. Example:python3 deepstream_ignition_IP_File_rtsp_yolo.py 'rtsp://172.16.2.157:554/user=admin&password=&channel=1&stream=0.sdp?'
 
-MP4 file example:deepstream_ignition_IP_File_rtsp_yolo.py file:////opt/nvidia/deepstream/deepstream=5.0/samples/streams/video.mp4 
+MP4 file example:python3 deepstream_ignition_IP_File_rtsp_yolo.py file:////opt/nvidia/deepstream/deepstream=5.0/samples/streams/video.mp4 
 
 
 
